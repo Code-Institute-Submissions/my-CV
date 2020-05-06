@@ -17,19 +17,6 @@ body {
   margin-top: 10px;
 }
 
-.container .profile-img {
-  width: 100px;
-  height: 50px;
-}
-
-.profile-img {
-  width: auto;
-  max-width: 100%;
-  height: auto;
-  text-align: center;
-  margin-top: 5px;
-  border-radius: 50%;
-}
 
 /*----------------------------------------------------NavBar*/
 .navbar {
@@ -80,6 +67,35 @@ body {
   margin-bottom: 10px;
 }
 
+/*----------------------------------------------------Jumbotron*/
+.jumbotron {
+    font-family: "Lato", sans-serif;
+}
+
+.jumbotron-fluid {
+    margin: 0;
+    background-color: transparent;
+}
+
+.card-img{
+    max-width: 100%;
+}
+
+.display-4{
+    font-weight: 300;
+}
+
+h5 {
+    margin-top: 50px;
+    font-weight: 200;
+}
+
+.card-text{
+    margin-top: 50px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: justify;
+}
 /*----------------------------------------------------Footer*/
 footer {
   bottom: 0;
@@ -103,8 +119,6 @@ footer {
   margin-right: 10px;
   margin-bottom: 10px;
 }
-
-
 
 .social {
   padding-bottom: 10px;

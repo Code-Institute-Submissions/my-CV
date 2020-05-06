@@ -1,39 +1,49 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+**PROJECT'S NAME**
 
-Welcome USER_NAME,
+  **Jihane Petticrew**
+This project is based on advertising my experience in a CV type of online static website that will provide
+future prospects the ability to either download my cv as well as contact me should an offer happens.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+**My main goal is to**
+  
+  * Advertise myself
+  * Detail my past professional experiences
+     **  so that all lead to my current objective to become an experienced full stack web developper.
+  * Detail my past study paths and main interests
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+**UX**
 
-`python3 -m http.server`
+  **Content strategy**
 
-A blue button should appear to click: *Make Public*,
+  * user-friendly
+  * Design should stand out
+  * Fluid navigation and easy to use
 
-Another blue button should appear to click: *Open Browser*.
+  **Target Audience**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Potential recruiters
 
-A blue button should appear to click: *Make Public*,
+  **WIREFRAMES**
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+**FEATURES**
 
-## Updates Since The Instructional Video
+  * User-friendly/Mobile-friendly
+  * Simplicity
+    * __Social Media Integration__ (Facebook, Instagram, Linkedin): allows the users to see who I am and what I like
+    * __Contact Page__: allows the users to contact me for more details and/or if there is any questions.
+    * __DL CV__: give the opportunity to download the CV in different formats
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+**FEATURES FOR THE FUTURE**
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+   * __Live chat__: to set up a chat box so to answer any questions live
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+**TECHNOLOGY USED**
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+* HTML
+* css
+* Balsamique WIREFRAMES
+* Bootstrap 4
 
---------
-
-Happy coding!

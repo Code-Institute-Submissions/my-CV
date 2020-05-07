@@ -113,11 +113,27 @@ footer {
 }
 
 .container .dl-cv {
-  margin-top: 5px;
+  margin-top: 10px;
   width: auto;
   height: 50px;
   margin-right: 10px;
   margin-bottom: 10px;
+}
+
+.inline-block {
+    margin-top: 10px;
+    font-weight: 300;
+}
+
+.cv-pdf{
+    font-size: 26px;
+    margin-left: 10px;
+    display: inline-block;
+    color: #1a1919;
+}
+
+.cv-pdf:hover{
+    color: rgba(247, 243, 18, 0.88);
 }
 
 .social {
@@ -127,9 +143,8 @@ footer {
 .social li a i {
   color: #1a1919;
   font-size: 30px;
-  margin-right: 10px;
-  margin-top: 15px;
-  margin-bottom: 10px;
+  margin: 15px 10px 10px 0;
+ 
 }
 
 .social li a i:hover {

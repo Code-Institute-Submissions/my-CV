@@ -66,7 +66,7 @@ body {
   margin-bottom: 10px;
 }
 
-/*----------------------------------------------------Jumbotron*/
+/*----------------------------------------------------Jumbotron fluid and its card*/
 .jumbotron {
   font-family: "Lato", sans-serif;
 }
@@ -78,6 +78,7 @@ body {
 
 .card-img {
   max-width: 100%;
+  border-radius: 0;
 }
 
 .display-4 {
@@ -96,10 +97,14 @@ h5 {
   text-align: justify;
 }
 
-/*----------------------------------------------------pro-xp page*/
+/*----------------------------------------------------cards*/
 
 .card {
     font-family: "Lato", sans-serif;
+}
+
+.card-img-top{
+    border-radius: 0;
 }
 
 .card-title {

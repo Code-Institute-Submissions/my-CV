@@ -86,7 +86,7 @@ body {
 }
 
 h5 {
-  margin-top: 40px;
+  margin-top: 20px;
   font-weight: 300;
 }
 
@@ -101,6 +101,8 @@ h5 {
 
 .card {
     font-family: "Lato", sans-serif;
+    border: none;
+    margin-top: 5px;
 }
 
 .card-img-top{
@@ -113,15 +115,21 @@ h5 {
   margin: 0;
 }
 
+.pro-xp-dl-link{
+    font-size: 17px;
+    display: block;
+}
+
 .xp-list{
     text-align: center;
     list-style: none;
-    margin-top: 15px;
+    margin-top: 40px; 
 }
 
 .date{
-    font-weight: 100;
+    font-weight: 200;
 }
+
 /*----------------------------------------------------Footer*/
 footer {
   bottom: 0;
@@ -151,14 +159,14 @@ footer {
   font-weight: 300;
 }
 
-.cv-pdf {
+.cv-word {
   font-size: 26px;
   margin-left: 10px;
   display: inline-block;
   color: #1a1919;
 }
 
-.cv-pdf:hover {
+.cv-word:hover {
   color: rgba(247, 243, 18, 0.88);
 }
 

@@ -66,7 +66,7 @@ body {
   margin-bottom: 10px;
 }
 
-/*----------------------------------------------------Jumbotron fluid and its card*/
+/*----------------------------------------------------Jumbotron its card index.html*/
 .jumbotron {
   font-family: "Lato", sans-serif;
 }
@@ -183,6 +183,11 @@ footer {
 .social li a i:hover {
   color: rgba(247, 243, 18, 0.88);
 }
+
+/*----------------------------------------------------About-me*/
+
+
+
 
 /*----------------------------------------------------Media*/
 @media (hover: none) {

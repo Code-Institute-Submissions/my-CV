@@ -10,14 +10,13 @@ body {
   text-transform: uppercase;
 }
 
-/*----------------------------------------------------Header*/
+/*----------------------------------------------------Header Navbar*/
 .navbar-text {
   display: block;
   padding: 0;
   margin-top: 10px;
 }
 
-/*----------------------------------------------------NavBar*/
 .navbar {
   margin-top: 0;
   margin-bottom: 0;
@@ -66,7 +65,7 @@ body {
   margin-bottom: 10px;
 }
 
-/*----------------------------------------------------Jumbotron its card index.html*/
+/*----------------------------------------------------Jumbotron and card index.html*/
 .jumbotron {
   font-family: "Lato", sans-serif;
 }
@@ -113,6 +112,8 @@ h5 {
 
 .card-img-top{
     border-radius: 0;
+    height: 20vw;
+    object-fit: cover;
 }
 
 .card-title {
@@ -156,13 +157,15 @@ h5 {
 /*----------------------------------------------------Footer*/
 footer {
   bottom: 0;
-  min-height: 30px;
+  min-height: 40px;
   margin: 0;
   color: #1a1919;
+  border-top: 0.5px solid;
+  border-top-color: #1a1919;
 }
 
 #footer-content {
-  padding-top: 10px;
+  padding-top: 20px;
   font-family: "Lato", sans-serif;
   letter-spacing: 2px;
   text-align: center;
@@ -207,8 +210,6 @@ footer {
   color: rgba(247, 243, 18, 0.88);
 }
 
-/*----------------------------------------------------About-me*/
-
 
 
 
@@ -217,4 +218,9 @@ footer {
   .navbar-light .navbar-nav .nav-link:hover {
     border-bottom: 0;
   }
+}
+@media (){
+    .card-img{
+  
+}
 }

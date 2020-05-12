@@ -22,9 +22,13 @@ future prospects the ability to either download my cv as well as contact me shou
 
   **Target Audience**
 
-Potential recruiters
+Potential recruiters, anyone in the industry who want to stay 
+in touch
+Mke new connection either through the website or ny of my social
+presence
 
   **WIREFRAMES**
+
 
 
 **FEATURES**
@@ -39,11 +43,16 @@ Potential recruiters
 **FEATURES FOR THE FUTURE**
 
    * __Live chat__: to set up a chat box so to answer any questions live
+   * __Blog__: link to my blog where all projects will be displayed
+   * __Leverage__: from student to employable, the new "feature" is to actually update the website to
+   attract potentiel clients.
 
 **TECHNOLOGY USED**
 
 * HTML
-* css
+* CSS to style
 * Balsamique WIREFRAMES
 * Bootstrap 4
+
+
 

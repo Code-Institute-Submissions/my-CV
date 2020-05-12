@@ -1,6 +1,6 @@
 **PROJECT'S NAME**
 
-  **Jihane Petticrew**
+  **Jihane Petticrew CV**
 This project is based on advertising my experience in a CV type of online static website that will provide
 future prospects the ability to either download my cv as well as contact me should an offer happens.
 
@@ -10,6 +10,7 @@ future prospects the ability to either download my cv as well as contact me shou
   * Detail my past professional experiences
      **  so that all lead to my current objective to become an experienced full stack web developper.
   * Detail my past study paths and main interests
+  * Explain why I want to become a web developer
 
 
 **UX**
@@ -54,5 +55,18 @@ presence
 * Balsamique WIREFRAMES
 * Bootstrap 4
 
+**GO THROUGH**
+
+The idea behind this project is to bring my CV to a different level,
+The main page shows a picture of myself so that reading my introduction
+becomes personal ie as if I was reading it to them. 
+I want to give potential contacts an idea of whom I am based on my past experiences,
+my strudy choices as well as depicting the reasons why I wanted to
+change career path.
+I am giving the opportunity to each contact to dive into my professional experience
+or education path, they have the opportunity to download my CV at
+each step which eventually leads to the stay in touch because I would like
+those new contact to "follow" my progression throughout the code institute course
+to eventually becoming employable.
 
 

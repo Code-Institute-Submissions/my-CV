@@ -87,7 +87,6 @@ body {
 .card-img-center {
   max-width: 100%;
   border-radius: 5%;
-
 }
 
 .card-body {
@@ -481,20 +480,6 @@ ul.timeline2 > li:before {
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .profile-img1 {
-      display: block;
-      margin: 0 auto;
-  }
-}
-
-@media only screen and (max-width: 1600px) {
-  .card-body {
-  margin-top: 50px;
-}
-   
-  }
-}
 
 @media only screen and (max-width: 1200px) {
   .main-timeline4 .year {

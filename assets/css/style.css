@@ -84,13 +84,13 @@ body {
   color: #1a1919;
 }
 
-.card-img-center {
+.card-img {
   max-width: 100%;
   border-radius: 5%;
-}
+ }
 
 .card-body {
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 .card-img-top {
@@ -109,10 +109,9 @@ body {
   font-weight: 400;
   text-align: left;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   letter-spacing: 1px;
-  margin-top: 0;
-}
+ }
 
 h5 {
   margin-bottom: 20px;
@@ -121,11 +120,11 @@ h5 {
 }
 
 .card-text {
-  margin-top: 40px;
+  margin-top: 10px;
   font-weight: 100;
   letter-spacing: 1px;
   text-align: justify;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .pro-xp-dl-link {

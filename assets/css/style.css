@@ -87,8 +87,7 @@ body {
 .card-img-center {
   max-width: 100%;
   border-radius: 5%;
-  width: auto;
-  height: auto;
+
 }
 
 .card-body {
@@ -483,13 +482,16 @@ ul.timeline2 > li:before {
 }
 
 @media only screen and (max-width: 768px) {
-  .card-img {
-
+  .profile-img1 {
+      display: block;
+      margin: 0 auto;
   }
 }
 
 @media only screen and (max-width: 1600px) {
-  .card-img {
+  .card-body {
+  margin-top: 50px;
+}
    
   }
 }

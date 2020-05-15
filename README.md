@@ -11,6 +11,19 @@ future prospects the ability to keep in touch and follow my endeavours to become
   * Detail my past study paths and main interests
   * Explain why I want to become a web developer
 
+**GO THROUGH**
+
+The idea behind this project is to bring my CV to a different level,
+The main page shows a picture of myself so that reading my introduction
+becomes personal ie as if I was reading it to them. 
+I want to give potential contacts an idea of whom I am based on my past experiences,
+my strudy choices as well as depicting the reasons why I wanted to
+change career path.
+I am giving the opportunity to each contact to dive into my professional experience
+or education path, they have the opportunity to download my CV at
+each step which eventually leads to the stay in touch because I would like
+those new contact to "follow" my progression throughout the code institute course
+to eventually becoming employable.
 
 **UX**
 
@@ -20,14 +33,14 @@ future prospects the ability to keep in touch and follow my endeavours to become
   * Design should stand out
   * Fluid navigation and easy to use
 
-  **Target Audience**
+ **Target Audience**
 
 Potential recruiters, anyone in the industry who want to stay 
 in touch
 Make new connection either through the website or any of my social media
 presence
 
-**User experience**
+ **The real User experience walk through**
 
   * any person interested in knowing how I ended choosing the web developping path will reach out to my About me page, where
   I give them an overview of who I am and why I have made the choice to change career path. These people will also 
@@ -84,19 +97,47 @@ presence
 www.gitpod.io
 * __Github__: provides hosting for software development version control using Git. www.github.com
 * __Chrome Dev Tool__: used extensively to to test and debug my code. https://developers.google.com/web/tools/chrome-devtools
+* __W3C Markup validation service__: used to check my html codes for validation https://validator.w3.org/ 
 
-**GO THROUGH**
+**TESTING**
 
-The idea behind this project is to bring my CV to a different level,
-The main page shows a picture of myself so that reading my introduction
-becomes personal ie as if I was reading it to them. 
-I want to give potential contacts an idea of whom I am based on my past experiences,
-my strudy choices as well as depicting the reasons why I wanted to
-change career path.
-I am giving the opportunity to each contact to dive into my professional experience
-or education path, they have the opportunity to download my CV at
-each step which eventually leads to the stay in touch because I would like
-those new contact to "follow" my progression throughout the code institute course
-to eventually becoming employable.
+* I have used the http://ami.responsivedesign.is/  website to check the render on different sceens
+* Test was conducted on all downloadable doc and links
+* Testing was also made on my mobile a Huawei as well as a Samsung
+* Desktop testing on large screen has revealed the need to resize my introduction picture
+* Contact form: Testing when filling partially the form or fully.
+    -- Any empty filled will bring the message: Please fill out the field.
+    -- I am having issues with my contact form not submitting
 
+**DEPLOYMENT**
+
+I have created a repository on mygithub. Every changes has been added, commited and pushed onto the github platform.
+To publish my site, I have to go on settings  heading, GitHub Pages, I used the drop-down menu to select master 
+branch as a publishing source and saved it. Refreshed the github page, and you are then given a url 
+where your page is published; Your site is published at:
+https://jihanepett.github.io/my-CV/index.html
+
+To use any of my repository github offers a cloning option: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
+**CREDIT**
+
+I have used the snippet advertised by mylastof on https://bootsnipp.com/snippets/xrKXW for my study timeline
+as well as the snippet advertised by mysuse on https://bootsnipp.com/snippets/prmge for my professional experience timeline
+
+Bootstrap 4 for my cards, forms 
+
+Google fonts for all Roboto and Lato fonts
+
+https://www.w3schools.com/ for any code related questions
+
+Font awesome for my icons
+
+https://stackoverflow.com/ Used as a resource for finding answers to all types of coding problems.
+
+
+**ACKNOWLEDGMENTS**
+
+All the code institute members for their support.
+My mentor: Adegbenga Adeye, for his great support, advice, time, walkthroughs and availability on skype, slack and email.
+My husband for helping with the kids allowing me to study and focus on my project.
 

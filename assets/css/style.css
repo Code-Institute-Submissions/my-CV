@@ -467,16 +467,13 @@ ul.timeline2 > li:before {
   z-index: 400;
 }
 /*----------------------------------------------------Media*/
-@media (hover: none) {
-  .navbar-light .navbar-nav .nav-link:hover {
+@media  screen and (max-width: 540px) {
+ .navbar-light .navbar-nav .nav-item:hover {
     border-bottom: 0;
   }
-  .nav-item-active{
+ .nav-item-active{
     border-bottom: 0;
-  }
 }
-
-@media only screen and (max-width: 580px) {
   img#noshow {
     display: none;
   }
@@ -490,6 +487,13 @@ ul.timeline2 > li:before {
   }
 }
 
+@media screen and (max-width: 940px){
+.navbar-nav {
+    line-height: 10px;
+}
+
+}
+
 @media only screen and (max-width: 1200px) {
   .profile-img1 {
     height: 30vw;
@@ -499,6 +503,8 @@ ul.timeline2 > li:before {
     text-align: center;
   }
 }
+
+/*----------------------------------------------------Media Timeline*/
 @media only screen and (max-width: 1200px) {
   .main-timeline4 .year {
     top: 50%;

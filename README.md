@@ -1,17 +1,17 @@
-**PROJECT'S NAME**
+# PROJECT'S NAME
 
   **Jihane Petticrew CV**
 This project is based on advertising my experience online in a static website that will provide
 future prospects the ability to keep in touch and follow my endeavours to become a full stack web developer.
 
-**My main goal is to**
+  **My main goal is to**
   
   * Advertise myself
   * Detail my past professional experiences
   * Detail my past study paths and main interests
   * Explain why I want to become a web developer
 
-**GO THROUGH**
+ **Go through**
 
 The idea behind this project is to bring my CV to a different level,
 The main page shows a picture of myself so that reading my introduction
@@ -25,7 +25,7 @@ each step which eventually leads to the stay in touch because I would like
 those new contact to "follow" my progression throughout the code institute course
 to eventually becoming employable.
 
-**UX**
+# UX
 
   **Content strategy**
 
@@ -56,11 +56,13 @@ presence
   to want to stay in touch either by pure curiosity or for real future contact (ie job offers, new projects)
 
 
-  **WIREFRAMES**
+# WIREFRAMES
 
+![homepage](/assets/images/wireframes/index.png)
+![about me](/assets/images/wireframes/About-me.png)
+![contact](/assets/images/wireframes/Contact-me.png)
 
-
-**FEATURES**
+# FEATURES
 
   * User-friendly/Mobile-friendly
   * Simplicity
@@ -80,14 +82,14 @@ presence
         **Get in touch**:
         A simple straight forward contact form to connect with anyone interested in keeping in touch
 
-**FEATURES FOR THE FUTURE**
+#FEATURES FOR THE FUTURE
 
    * __Live chat__: to set up a chat box so to answer any questions live
    * __Blog__: link to my blog where all experiences will be explained
    * __Leverage__: from student to employable, the new feature is to actually based on updating the website to show all my new projects so to
    attract potentiel clients.
 
-**TECHNOLOGY USED**
+# TECHNOLOGY USED
 
 * __HTML__: used to build all the webpage of this website.
 * __CSS__ to style my various webpages and also overrides some of the bootstrap elements.
@@ -99,7 +101,7 @@ www.gitpod.io
 * __Chrome Dev Tool__: used extensively to to test and debug my code. https://developers.google.com/web/tools/chrome-devtools
 * __W3C Markup validation service__: used to check my html codes for validation https://validator.w3.org/ 
 
-**TESTING**
+# TESTING
 
 * I have used the http://ami.responsivedesign.is/  website to check the render on different sceens
 * Test was conducted on all downloadable doc and links
@@ -109,7 +111,7 @@ www.gitpod.io
     -- Any empty filled will bring the message: Please fill out the field.
     -- I am having issues with my contact form not submitting
 
-**DEPLOYMENT**
+# DEPLOYMENT
 
 I have created a repository on mygithub. Every changes has been added, commited and pushed onto the github platform.
 To publish my site, I have to go on settings  heading, GitHub Pages, I used the drop-down menu to select master 
@@ -119,7 +121,7 @@ https://jihanepett.github.io/my-CV/index.html
 
 To use any of my repository github offers a cloning option: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 
-**CREDIT**
+# CREDIT
 
 I have used the snippet advertised by mylastof on https://bootsnipp.com/snippets/xrKXW for my study timeline
 as well as the snippet advertised by mysuse on https://bootsnipp.com/snippets/prmge for my professional experience timeline
@@ -135,9 +137,9 @@ Font awesome for my icons
 https://stackoverflow.com/ Used as a resource for finding answers to all types of coding problems.
 
 
-**ACKNOWLEDGMENTS**
+# ACKNOWLEDGMENTS
 
-All the code institute members for their support.
-My mentor: Adegbenga Adeye, for his great support, advice, time, walkthroughs and availability on skype, slack and email.
-My husband for helping with the kids allowing me to study and focus on my project.
+* All the code institute members for their support.
+* My mentor: Adegbenga Adeye, for his great support, advice, time, walkthroughs and availability on skype, slack and email.
+* My husband for helping with the kids allowing me to study and focus on my project.
 

@@ -58,7 +58,6 @@ body {
   font-weight: 300;
   margin-left: 20px;
   font-family: "Lato", sans-serif;
-
 }
 
 /*----------------------------------------------------Jumbotron*/
@@ -173,6 +172,10 @@ footer {
   color: #1a1919;
 }
 
+.container-fluid{
+    margin-top: 50px;
+}
+
 #footer-content {
   text-align: center;
   font-family: "Lato", sans-serif;
@@ -183,14 +186,6 @@ footer {
   letter-spacing: 2px;
   font-size: 110%;
   color: #1a1919;
-}
-
-.container .dl-cv {
-  margin-top: 10px;
-  width: auto;
-  height: 50px;
-  margin-right: 10px;
-  margin-bottom: 10px;
 }
 
 .inline-block {
@@ -491,7 +486,6 @@ ul.timeline2 > li:before {
 .navbar-nav {
     line-height: 10px;
 }
-
 }
 
 @media only screen and (max-width: 1200px) {

@@ -11,6 +11,8 @@ body {
   text-transform: uppercase;
 }
 
+.p{}
+
 /*----------------------------------------------------Navbar*/
 .navbar-text {
   display: block;

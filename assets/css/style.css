@@ -78,19 +78,18 @@ body {
   color: #1a1919;
 }
 
-.profile-img1 {
-  height: 20vw;
-  width: 20vw;
-  float: right;
-}
-
-.card-img {
+.img-fluid {
   max-width: 100%;
   border-radius: 5%;
 }
 
+.card-body-content{
+    display: inline-block;
+    text-align: center;
+}
+
 .card-body {
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .card-img-top {
@@ -117,6 +116,7 @@ h5 {
   margin-bottom: 20px;
   font-weight: 200;
   letter-spacing: 1px;
+  text-align: left;
 }
 
 .card-text {
@@ -467,14 +467,12 @@ ul.timeline2 > li:before {
   img#noshow {
     display: none;
   }
-  .profile-img1 {
-    height: 30vw;
-    width: 40vw;
-  }
-
   .display-12 {
     text-align: center;
   }
+  .card-body {
+  margin-top: 0;
+}
 }
 
 @media screen and (max-width: 940px){
@@ -484,11 +482,7 @@ ul.timeline2 > li:before {
 }
 
 @media only screen and (max-width: 1200px) {
-  .profile-img1 {
-    height: 30vw;
-    width: 40vw;
-  }
-  .display-12 {
+   .display-12 {
     text-align: center;
   }
 }

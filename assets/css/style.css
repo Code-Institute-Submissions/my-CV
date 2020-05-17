@@ -44,9 +44,9 @@ body {
   letter-spacing: 2px;
 }
 
-.nav-item-active{
-    border-bottom: 1px solid #1a1919;
-    font-weight: bold;
+.nav-item-active {
+  border-bottom: 1px solid #1a1919;
+  font-weight: bold;
 }
 
 .navbar-light .navbar-nav .nav-item:hover {
@@ -61,14 +61,12 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-
 /*----------------------------------------------------Jumbotron*/
 .jumbotron {
   font-family: "Roboto", sans-serif;
   margin: 0;
   background-color: transparent;
 }
-
 
 /*----------------------------------------------------cards*/
 .card {
@@ -83,9 +81,9 @@ body {
   border-radius: 5%;
 }
 
-.card-body-content{
-    display: inline-block;
-    text-align: center;
+.card-body-content {
+  display: inline-block;
+  text-align: center;
 }
 
 .card-body {
@@ -186,7 +184,6 @@ h5 {
   color: rgba(32, 34, 32, 0.6);
 }
 
-
 /*----------------------------------------------------About Me*/
 .aboutme-icon {
   text-align: center;
@@ -214,7 +211,6 @@ h5 {
   background-color: #1a1919;
 }
 
-
 /*----------------------------------------------------contact*/
 .h5-contact {
   font-family: "Lato", sans-serif;
@@ -239,7 +235,7 @@ h5 {
   margin: 0 auto;
 }
 
-.btn-secondary{
+.btn-secondary {
   margin-top: 20px;
   margin-bottom: 20px;
   letter-spacing: 1px;
@@ -457,13 +453,13 @@ ul.timeline2 > li:before {
   z-index: 400;
 }
 /*----------------------------------------------------Media*/
-@media  screen and (max-width: 540px) {
- .navbar-light .navbar-nav .nav-item:hover {
+@media screen and (max-width: 540px) {
+  .navbar-light .navbar-nav .nav-item:hover {
     border-bottom: 0;
   }
- .nav-item-active{
+  .nav-item-active {
     border-bottom: 0;
-}
+  }
   img#noshow {
     display: none;
   }
@@ -471,18 +467,18 @@ ul.timeline2 > li:before {
     text-align: center;
   }
   .card-body {
-  margin-top: 0;
-}
+    margin-top: 0;
+  }
 }
 
-@media screen and (max-width: 940px){
-.navbar-nav {
+@media screen and (max-width: 940px) {
+  .navbar-nav {
     line-height: 10px;
-}
+  }
 }
 
 @media only screen and (max-width: 1200px) {
-   .display-12 {
+  .display-12 {
     text-align: center;
   }
 }

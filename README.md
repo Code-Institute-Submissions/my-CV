@@ -1,4 +1,6 @@
 # PROJECT'S NAME
+my project is my cv
+my project
 
   **Jihane Petticrew CV**
 This project is based on advertising my experience online in a static website that will provide

@@ -24,6 +24,8 @@ body {
   width: 100%;
   border: 0;
   font-size: 16px;
+  font-family: "Lato", sans-serif;
+  color: #1a1919;
 }
 
 .navbar .navbar-toggler {
@@ -34,8 +36,6 @@ body {
   font-weight: 500;
   letter-spacing: 2px;
   font-size: 140%;
-  font-family: "Lato", sans-serif;
-  color: #1a1919;
   margin-left: 10px;
 }
 
@@ -46,7 +46,7 @@ body {
 
 .nav-item-active{
     border-bottom: 1px solid #1a1919;
-    font-weight: 200;
+    font-weight: bold;
 }
 
 .navbar-light .navbar-nav .nav-item:hover {
@@ -55,10 +55,11 @@ body {
 
 .navbar .nav-item {
   margin-right: 20px;
-  font-weight: 300;
+  font-weight: 200;
   margin-left: 20px;
   font-family: "Lato", sans-serif;
 }
+
 
 /*----------------------------------------------------Jumbotron*/
 .jumbotron {
@@ -66,6 +67,7 @@ body {
   margin: 0;
   background-color: transparent;
 }
+
 
 /*----------------------------------------------------cards*/
 .card {
@@ -138,40 +140,7 @@ h5 {
 .date {
   font-weight: 200;
 }
-/*----------------------------------------------------About Me*/
-.aboutme-icon {
-  text-align: center;
-  display: block;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.aboutme-h5 {
-  text-align: center;
-  font-weight: bold;
-  letter-spacing: 2px;
-}
-
-.about-me-p {
-  font-weight: 100;
-  letter-spacing: 1px;
-}
-
-.my-4 {
-  border-color: #1a1919;
-  width: 40px;
-  height: 5px;
-  border: 0;
-  background-color: #1a1919;
-}
-
 /*----------------------------------------------------Footer*/
-footer {
-  position: absolute;
-  margin: 0;
-  color: #1a1919;
-}
-
 .container-fluid{
     margin-top: 50px;
 }
@@ -219,6 +188,35 @@ footer {
 .social li a i:hover {
   color: rgba(32, 34, 32, 0.6);
 }
+
+
+/*----------------------------------------------------About Me*/
+.aboutme-icon {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.aboutme-h5 {
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.about-me-p {
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.my-4 {
+  border-color: #1a1919;
+  width: 40px;
+  height: 5px;
+  border: 0;
+  background-color: #1a1919;
+}
+
 
 /*----------------------------------------------------contact*/
 .h5-contact {

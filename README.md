@@ -82,7 +82,7 @@ presence
         **Get in touch**:
         A simple straight forward contact form to connect with anyone interested in keeping in touch
 
-#FEATURES FOR THE FUTURE
+# FEATURES FOR THE FUTURE
 
    * __Live chat__: to set up a chat box so to answer any questions live
    * __Blog__: link to my blog where all experiences will be explained
@@ -109,14 +109,15 @@ www.gitpod.io
 * Desktop testing on large screen has revealed the need to resize my introduction picture
 * Contact form: Testing when filling partially the form or fully.
     -- Any empty filled will bring the message: Please fill out the field.
-    -- I am having issues with my contact form not submitting
+    -- My contact form is not currently submitting as it is not linked to a webmail server and requires some javascript knowledge I will acquire throughout the course of this diploma.
 
 # DEPLOYMENT
 
 I have created a repository on mygithub. Every changes has been added, commited and pushed onto the github platform.
-To publish my site, I have to go on settings  heading, GitHub Pages, I used the drop-down menu to select master 
-branch as a publishing source and saved it. Refreshed the github page, and you are then given a url 
-where your page is published; Your site is published at:
+To publish my site, I had to go on settings  heading, GitHub Pages, I used the drop-down menu to select master 
+branch as a publishing source and saved it. Refreshed the github page, and I have beengiven a url 
+where my pages are published;
+Message as per: Your site is published at:
 https://jihanepett.github.io/my-CV/index.html
 
 To use any of my repository github offers a cloning option: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
